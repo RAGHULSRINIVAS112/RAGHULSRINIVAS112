@@ -1,3 +1,4 @@
+<img align="left" alt="hello" width="300" src=https://github.com/RAGHULSRINIVAS112/RAGHULSRINIVAS112/blob/main/giphy.gif>
 <h1 align="center">Hi 👋, I'm Raghul</h1>
 <h3 align="center">I am Just a learner</h3>
 
