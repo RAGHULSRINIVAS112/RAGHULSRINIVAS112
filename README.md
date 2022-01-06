@@ -1,6 +1,9 @@
 <img align="right" alt="hello" width="300" src=https://github.com/RAGHULSRINIVAS112/RAGHULSRINIVAS112/blob/main/giphy.gif>
 <h1 align="center">Hi 👋, I'm Raghul</h1>
-<h3 align="center">I am Just a learner</h3>
+<h3 align="center">Hi Iam Ragul, Iam student who have strong vision in achieving my goals
+and Iam a hardworking person who have intresed towads web
+devloping,UI/UX,Data Analysis,But i have great knowledge towads
+webdevlopment and designing the webpages.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAGHULSRINIVAS112" alt="RAGHULSRINIVAS112" /></a> </p>
 - 🔭 I’m currently working on [DonatioApp](https://github.com/Team-Pythusiasts/donationApp.git)
 
